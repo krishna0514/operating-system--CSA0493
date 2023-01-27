@@ -36,3 +36,11 @@ for(i=0;i<j;i++)
 printf("\n%s",fname[i]);
 getch();
 }
+output
+Enter the directory name:text
+Enter the number of files:deadlock
+Enter file name to be created:Do you want to enter another file(yes - 1 or no - 0):no
+Directory name is:text
+Files names are:
+deadlock
+
