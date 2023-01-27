@@ -23,3 +23,7 @@ int main()
 	return 0;
 }
 
+output
+Thread ID: -1490663872, Static: 2, Global: 2
+Thread ID: -1499056576, Static: 6, Global: 6
+Thread ID: -1499056576, Static: 4, Global: 4
